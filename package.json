@@ -1,6 +1,6 @@
 {
   "name": "empty-webpack-build-detail-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "friendly display compilation details",
   "main": "index.js",
   "scripts": {
