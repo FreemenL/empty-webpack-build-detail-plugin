@@ -85,7 +85,7 @@ Here's an example webpack config illustrating how to use these options
     <tr>
       <td align="center">
         <img width="150" height="150"
-        src="https://www.lgstatic.com/i/image/M00/70/45/CgpEMlm1eoaAT-7PAACXDPj8MC493.jpeg">
+        src="https://cdn2.ettoday.net/images/1688/d1688515.jpg">
         </br>
         <a href="https://github.com/freemenL">freemenL</a>
       </td>
