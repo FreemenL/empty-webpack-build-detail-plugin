@@ -1,0 +1,24 @@
+{
+  "name": "empty-webpack-build-detail-plugin",
+  "version": "1.0.0",
+  "description": "friendly display compilation details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FreemenL/empty-webpack-build-detail-plugin.git"
+  },
+  "author": "freemenL",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "filesize": "^4.1.2",
+    "fs-extra": "^7.0.1",
+    "gzip-size": "^5.0.0",
+    "recursive-readdir": "^2.2.2",
+    "strip-ansi": "^5.0.0",
+    "tapable": "^1.1.1"
+  }
+}
