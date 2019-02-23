@@ -21,7 +21,7 @@
   yarn add --dev empty-webpack-build-detail-plugin
 ```
 
-This is a [webpack](http://webpack.js.org/) plugin tailored for emptyd-desgin and can be used in your project. No difference
+This is a [webpack](http://webpack.js.org/) plugin tailored for [emptyd-desgin](https://github.com/FreemenL/emptyd-admin-webpack) and can be used in your project. No difference
 
 <h2 align="center">Zero Config</h2>
 
