@@ -60,7 +60,6 @@ Allowed values are as follows
 |**`warnAfterBundleGzipSize`**|`{number}`|512*1024 (Bit)|Maximum limit for bundle files|
 |**`warnAfterChunkGzipSize`**|`{number}`|1024*1024 (Bit)|Maximum limit for chunk files|
 
-WARN_AFTER_CHUNK_GZIP_SIZE
 Here's an example webpack config illustrating how to use these options
 
 **webpack.config.js**
