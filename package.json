@@ -1,0 +1,27 @@
+{
+  "name": "empty-webpack-build-detail-plugin",
+  "version": "1.0.5",
+  "description": "friendly display compilation details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FreemenL/empty-webpack-build-detail-plugin.git"
+  },
+  "author": "freemenL",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "filesize": "^4.1.2",
+    "format-json": "^1.0.3",
+    "fs-extra": "^7.0.1",
+    "gzip-size": "^5.0.0",
+    "recursive-readdir": "^2.2.2",
+    "strip-ansi": "^5.0.0",
+    "tapable": "^1.1.1"
+  },
+  "_from": "empty-webpack-build-detail-plugin@1.0.5",
+  "_resolved": "http://registry.npm.taobao.org/empty-webpack-build-detail-plugin/download/empty-webpack-build-detail-plugin-1.0.5.tgz"
+}
