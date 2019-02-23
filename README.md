@@ -14,7 +14,7 @@
 ```
 
 ```bash
-  npm i --save-dev empty-webpack-build-detail-plugin -D
+  npm i empty-webpack-build-detail-plugin -D
 ```
 
 ```bash
